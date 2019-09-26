@@ -34,6 +34,10 @@ namespace StarX
                     Console.WriteLine("Added Ship");
                     System.Threading.Thread.Sleep(2000);
                     Program.rocketList.Add(this);
+
+
+
+
                 }
             }
 
